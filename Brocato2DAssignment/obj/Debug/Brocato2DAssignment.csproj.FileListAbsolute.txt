@@ -1,0 +1,10 @@
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\bin\Debug\Brocato2DAssignment.exe
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\bin\Debug\Brocato2DAssignment.exe.config
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.Form1.resources
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.Properties.Resources.resources
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.csproj.GenerateResource.cache
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.csproj.CoreCompileInputs.cache
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.exe
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.pdb
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\bin\Debug\Brocato2DAssignment.pdb
+C:\Coding\Brocato2DAssignment\Brocato2DAssignment\obj\Debug\Brocato2DAssignment.csprojAssemblyReference.cache
